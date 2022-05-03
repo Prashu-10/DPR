@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: dpr
+Version: 1.0.0
+Summary: Facebook AI Research Open Domain Q&A Toolkit
+Home-page: https://github.com/facebookresearch/DPR/
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Dense Passage Retrieval
 
 Dense Passage Retrieval (`DPR`) - is a set of tools and models for state-of-the-art open-domain Q&A research.
@@ -367,3 +381,5 @@ We provide all input and intermediate results for e2e pipeline for NQ dataset an
 
 ## License
 DPR is CC-BY-NC 4.0 licensed as of now.
+
+
